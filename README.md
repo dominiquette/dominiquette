@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=dominiquette&color=ff69b4&abbreviated=true)
+![linkedin banner 2](https://github.com/dominiquette/dominiquette/assets/119539825/e8cd9892-093f-44f3-8855-157ce3897401)
+
+![](https://komarev.com/ghpvc/?username=dominiquette&color=ff69b4&style=flat-square&abbreviated=true)
 <!--
 **dominiquette/dominiquette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
