@@ -6,7 +6,7 @@
 
 Hello! I'm Dominique, an aspiring software engineer with a passion for coding and continuous learning.  Currently, I'm on an exciting journey to become a proficient developer through a software engineering bootcamp.
 
-🎓 **Education and Courses:**
+🎓 *** Education and Courses:**
 - Enrolled in a comprehensive software engineering bootcamp with HyperionDev to build a strong foundation.
 - Taking a short course to deepen my understanding of SQL, an essential skill in the world of databases.
 
@@ -15,6 +15,8 @@ Hello! I'm Dominique, an aspiring software engineer with a passion for coding an
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+
+
 
 
 
