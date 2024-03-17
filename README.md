@@ -24,7 +24,11 @@ I am actively seeking apprenticeships, internships, or junior roles to begin my 
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dominiquette&theme=tokyonight&hide=stars&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/dominiquette">
+    <img src="https://github-readme-stats.vercel.app/api?username=dominiquette&theme=tokyonight&hide=stars" alt="Anurag's GitHub stats">
+  </a>
+</div>
 
 
 
