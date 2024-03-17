@@ -6,15 +6,19 @@
 
 Hello! I'm Dominique, an aspiring software engineer with a passion for coding and continuous learning.  Currently, I'm on an exciting journey to become a proficient developer through a software engineering bootcamp.
 
-🎓 *** Education and Courses:**
-- Enrolled in a comprehensive software engineering bootcamp with HyperionDev to build a strong foundation.
-- Taking a short course to deepen my understanding of SQL, an essential skill in the world of databases.
+### 🎓 Education and Courses:
+- Currently enrolled in a short course with **Code First Girls** to enhance my proficiency in **SQL**, a crucial skill in database management.
+- Participating in a **Software Engineering Bootcamp** offered by **HyperionDev** to solidify my foundation in Python, debugging techniques and object-oriented programming. Completed projects include a **Task Manager** &**Finance Calculator** 
+- Successfully completed a short course in **Python & Apps Development** with **Code First Girls**, gaining an introductory understanding of coding. Delivered a project involving the creation of a Pokemon Game.
 
 
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+
+
+I am actively seeking apprenticeships, internships, or junior roles to begin my journey in the industry and further develop my skills.
 
 
 
