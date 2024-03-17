@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dominiquette&color=00fffc&style=flat-square&abbreviated=true" alt="Profile Views" />
-</p>
-
 ![linkedin banner 2 (1)](https://github.com/dominiquette/dominiquette/assets/119539825/90920d8a-ea28-46e3-b125-235f450075c1)
 
 Hello! I'm Dominique, an aspiring software engineer with a passion for coding and continuous learning.  Currently, I'm on an exciting journey to become a proficient developer through a software engineering bootcamp.
@@ -29,6 +25,10 @@ I am actively seeking apprenticeships, internships, or junior roles to begin my 
     <img src="https://github-readme-stats.vercel.app/api?username=dominiquette&theme=tokyonight&hide=stars">
   </a>
 </div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dominiquette&color=00fffc&style=flat-square&abbreviated=true" alt="Profile Views" />
+</p>
 
 
 
