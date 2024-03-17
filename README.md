@@ -24,7 +24,7 @@ I am actively seeking apprenticeships, internships, or junior roles to begin my 
 
 
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dominiquette&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
