@@ -22,7 +22,7 @@ I am actively seeking apprenticeships, internships, or junior roles to begin my 
 
 <div align="center">
   <a href="https://github.com/dominiquette">
-    <img src="https://github-readme-stats.vercel.app/api?username=dominiquette&theme=tokyonight&hide=stars">
+    <img src="https://github-readme-stats.vercel.app/api?username=dominiquette&show_icons=true&theme=tokyonight&hide=stars">
   </a>
 </div>
 
