@@ -33,7 +33,7 @@ I am actively seeking apprenticeships, internships, or junior roles to begin my 
 
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/dominique-p"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a target="_blank" href="dominique123p@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"></a>
+  <a target="_blank" href="mailto:dominique123p@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
 
