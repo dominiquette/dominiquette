@@ -6,7 +6,10 @@ I am actively seeking apprenticeships, internships, or junior roles to begin my 
 
 ## 🎓 Education and Courses:
 
-- Participating in a **Software Engineering Bootcamp** offered by **HyperionDev** to solidify my foundation in Python, debugging techniques and object-oriented programming. Completed projects include a **Task Manager** & **Finance Calculator** 
+- Currently on the summer cohort 2024 **CFG Degree sponsored by Code First Girls** on the software engineer pathway.
+
+- Participating in a **Software Engineering Bootcamp** offered by **HyperionDev** to solidify my foundation in Python, debugging techniques and object-oriented programming. Completed projects include a **Task Manager** & **Finance Calculator**
+  
 - Successfully completed a short course in **Python & Apps Development** with **Code First Girls**, gaining an introductory understanding of coding. Delivered a project involving the creation of a Pokemon Game.
 
 
