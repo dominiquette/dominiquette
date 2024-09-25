@@ -6,7 +6,9 @@ I am actively seeking apprenticeships, internships, or junior roles to begin my 
 
 ## 🎓 Education and Courses:
 
-- Currently on the summer cohort 2024 **CFG Degree sponsored by Code First Girls** on the software engineer pathway.
+- Currently furthering my studies on the **CFG +Masters sponsored by GCHQ** in Cybersecurity.
+
+- Completed the summer cohort 2024 **CFG Degree sponsored by Code First Girls** on the software engineer pathway.
 
 - Participating in a **Software Engineering Bootcamp** offered by **HyperionDev** to solidify my foundation in Python, debugging techniques and object-oriented programming. Completed projects include a **Task Manager** & **Finance Calculator**
   
@@ -29,7 +31,11 @@ I am actively seeking apprenticeships, internships, or junior roles to begin my 
 
 
 
-
+<div align="center">
+  <a href="https://github.com/dominiquette">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/dompac.png" alt="TryHackMe">
+  </a>
+</div>
 
 
 <div align="center">
