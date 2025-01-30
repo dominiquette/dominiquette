@@ -1,12 +1,11 @@
-![linkedin banner 2 (1)](https://github.com/dominiquette/dominiquette/assets/119539825/90920d8a-ea28-46e3-b125-235f450075c1)
+![Image](https://github.com/user-attachments/assets/e8468820-d415-4940-a5cc-6d3c6cba1f65)
 
-Hello! I'm Dominique, an aspiring software engineer with a passion for coding and continuous learning.  Currently, I'm on an exciting journey to become a proficient developer through a software engineering bootcamp.
+Hello! I'm Dominique, an aspiring cybersecurity professional with a strong passion for coding and continuous learning. Currently, I am deepening my expertise in both software engineering and cybersecurity through various programs, and I'm actively seeking opportunities in cybersecurity, including apprenticeships, internships, or junior roles to further develop my skills and knowledge.
 
-I am actively seeking apprenticeships, internships, or junior roles to begin my journey in the industry and further develop my skills.
 
 ## 🎓 Education and Courses:
 
-- Currently furthering my studies on the **CFG +Masters sponsored by GCHQ** in Cybersecurity.
+- Completed the **CFG +Masters sponsored by GCHQ** in Cybersecurity specialising in Vulnerability Research
 
 - Completed the summer cohort 2024 **CFG Degree sponsored by Code First Girls** on the software engineer pathway.
 
