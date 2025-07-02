@@ -2,7 +2,7 @@
 
 Hello! 👋  I'm Dominique, 
 
-I’m an enthusiastic tech professional building a broad skill set across cybersecurity, software engineering, and IT support. Coding and problem-solving truly excite me, and I’m driven by a passion for continuous learning. I’m actively seeking opportunities, whether internships, apprenticeships or junior roles—where I can develop my skills further and make a real impact through meaningful projects.
+I’m an enthusiastic tech professional building a broad skill set across cybersecurity, software engineering, and IT support. Coding and problem-solving truly excite me, and I’m driven by a passion for continuous learning. I’m actively seeking opportunities, whether internships, apprenticeships or junior roles, where I can develop my skills further and make a real impact through meaningful projects.
 
 
 ## 🎓 Education and Courses:
