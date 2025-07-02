@@ -1,13 +1,17 @@
-![Image](https://github.com/user-attachments/assets/e8468820-d415-4940-a5cc-6d3c6cba1f65)
+![Image](https://github.com/user-attachments/assets/61f779b2-4d31-41a4-8345-bb6162ed0c79)
 
-Hello! I'm Dominique, an aspiring cybersecurity professional with a strong passion for coding and continuous learning. Currently, I am deepening my expertise in both software engineering and cybersecurity through various programs, and I'm actively seeking opportunities in cybersecurity, including apprenticeships, internships, or junior roles to further develop my skills and knowledge.
+Hello! 👋  I'm Dominique, 
+
+I’m an enthusiastic tech professional building a broad skill set across cybersecurity, software engineering, and IT support. Coding and problem-solving truly excite me, and I’m driven by a passion for continuous learning. I’m actively seeking opportunities, whether internships, apprenticeships or junior roles—where I can develop my skills further and make a real impact through meaningful projects.
 
 
 ## 🎓 Education and Courses:
 
-- Completed the **CFG +Masters sponsored by GCHQ** in Cybersecurity specialising in Vulnerability Research
+- Recently completed an **IT Support with Cybersecurity** training with **Generation UK**, gaining practical skills in troubleshooting, system maintenance and user support
 
-- Completed the summer cohort 2024 **CFG Degree sponsored by Code First Girls** on the software engineer pathway.
+- Completed the CODE FIRST GIRLS **CFG +Masters sponsored by GCHQ** in **Cybersecurity** specialising in **Vulnerability Research**
+
+- Completed the CODE FIRST GIRLS summer cohort 2024 **CFG Degree** on the **Software Engineer** pathway.
 
 - Participating in a **Software Engineering Bootcamp** offered by **HyperionDev** to solidify my foundation in Python, debugging techniques and object-oriented programming. Completed projects include a **Task Manager** & **Finance Calculator**
   
